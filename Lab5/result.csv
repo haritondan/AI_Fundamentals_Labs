@@ -1,0 +1,49 @@
+new_path,label,result
+images/8ECC1F.jpg,False,Not Accepted - Number of eyes detected is not 2
+images/EF334A.jpg,False,Not Accepted - Number of eyes detected is not 2
+images/33C8EE.jpg,True,Accepted
+images/55D113.jpg,False,Not Accepted - Number of eyes detected is not 2
+images/386FB0.jpg,False,Not Accepted - Eyes are not at the same level
+images/826C93.jpg,True,Accepted
+images/B8D6C9.jpg,True,Not Accepted - Eyes are not at the same level
+images/E45D50.jpg,True,Not Accepted - Number of eyes detected is not 2
+images/D11589.jpg,False,Not Accepted - Number of eyes detected is not 2
+images/27DAC4.jpg,True,Accepted
+images/A0F4EC.jpg,False,Not Accepted - Eyes are not at the same level
+images/A35F94.jpg,False,Not Accepted - Number of eyes detected is not 2
+images/4F7014.jpg,False,Accepted
+images/4CA327.jpg,False,Not Accepted - Eyes are not at the same level
+images/4731E0.jpg,False,Not Accepted - Eyes are not at the same level
+images/8D6BC6.jpg,False,Accepted
+images/30916C.jpg,False,Not Accepted - Number of eyes detected is not 2
+images/2FC4FD.jpg,False,Not Accepted - Face area is not between 20% and 50% of the image area
+images/32CEDF.jpg,False,Not Accepted - Number of eyes detected is not 2
+images/BCB11B.jpg,True,Not Accepted - Face area is not between 20% and 50% of the image area
+images/41F890.jpg,True,Not Accepted - Eyes are not at the same level
+images/60BE94.jpg,False,Not Accepted - Number of eyes detected is not 2
+images/BDB744.jpg,False,Not Accepted - Eyes are not at the same level
+images/F28B71.jpg,True,Accepted
+images/0AA0A2.jpg,True,Not Accepted - Number of eyes detected is not 2
+images/4AE284.jpg,False,Not Accepted - Eyes are not at the same level
+images/A02514.jpg,True,Not Accepted - Eyes are not at the same level
+images/A8519D.jpg,False,Not Accepted - Number of eyes detected is not 2
+images/7E0875.jpg,True,Not Accepted - Eyes are not at the same level
+images/870125.jpg,False,Not Accepted - Number of eyes detected is not 2
+images/80003A.jpg,False,Not Accepted - Eyes are not at the same level
+images/35E54F.jpg,False,Not Accepted - Number of eyes detected is not 2
+images/14A19C.jpg,False,Not Accepted - Eyes are not at the same level
+images/C159CB.jpg,False,Not Accepted - Number of eyes detected is not 2
+images/A6E4A7.jpg,False,Not Accepted - Eyes are not at the same level
+images/53DEBB.jpg,False,Not Accepted - Eyes are not at the same level
+images/D87D5F.jpg,True,Not Accepted - Eyes are not at the same level
+images/9C02DD.jpg,False,Not Accepted - Eyes are not at the same level
+images/94E27D.jpg,False,Not Accepted - Eyes are not at the same level
+images/711A6A.jpg,False,Not Accepted - Eyes are not at the same level
+images/56C0B5.jpg,True,Accepted
+images/E2BD04.jpg,False,Not Accepted - Eyes are not at the same level
+images/476435.jpg,True,Accepted
+images/455D92.jpg,True,Accepted
+images/D35C72.jpg,True,Not Accepted - Face area is not between 20% and 50% of the image area
+images/76DD74.jpg,False,Not Accepted - Eyes are not at the same level
+images/5633B8.jpg,False,Not Accepted - Eyes are not at the same level
+images/6E59C6.jpg,False,Not Accepted - Eyes are not at the same level
