@@ -20,7 +20,7 @@ async def respond(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         await update.message.reply_text("Sorry, I don't know.")
 
 
-app = ApplicationBuilder().token("7613500827:AAGqthzpgMk6opuaaR0Q538IzjOOid5TWOg").build()
+app = ApplicationBuilder().token("your-token").build()
 app.add_handler(CommandHandler("start", start))
 app.add_handler(MessageHandler(callback=respond, filters=None))
 
